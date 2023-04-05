@@ -3,7 +3,7 @@
 # Aşağıda istenilen değerleri giriniz:
 
 P = float(input("Yıllık Toplam Yağış Miktarı (mm): "))
-Tom = float(input("Yıllık Ortalama Maksimum Sıcaklık Değeri (°C): "))
+Tom = float(input("Maksimum Sıcaklıkların Ortalama Değeri (°C): "))
 
 # Yağış Etkinlik İndeksi aşağıdaki formül ile bulunur.
 
