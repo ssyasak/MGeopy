@@ -27,4 +27,4 @@ elif 40 < Im < 55:
 else:
     print("Çok Nemli")
 
-# Kaynak: Erinç, S. (1984). Klimatoloji ve Metotları, İ.T.Ü. Deniz Bilimleri ve Coğrafya Enstitüsü, İstanbul.
+# Kaynak: Erinç, S. (1965). Yağış müessiriyeti üzerine bir deneme ve yeni bir indis. İstanbul: İstanbul Üniversitesi Coğrafya Enstitüsü Yayınları No:41.
