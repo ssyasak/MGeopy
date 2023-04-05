@@ -31,4 +31,4 @@ elif 55 > idmt:
 else:
     print("Kutupsal")
 
-#Kaynak: De Martonne, E. (1942). Nouvelle carte mondiale de l'indice d'aridité. Annales de Géographie 51:242–250.
+
